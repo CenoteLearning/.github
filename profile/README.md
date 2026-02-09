@@ -12,7 +12,7 @@ Cenote solves this by replacing the traditional desktop with a distraction-free 
 
 <br />
 
-Go and follow [Cenote](https://github.com/CenoteLearning) to see how the product develops. We hope to have an MVP out by the beginning of March 2026! 
+Follow us if you want to see how Cenote develops. We hope to have an MVP out by the beginning of March 2026! 
 
 <hr />
 
