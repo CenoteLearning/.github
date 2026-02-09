@@ -5,9 +5,9 @@
 </p>
 
 
-Students are constantly exposed to unproductive temptations with unrestricted browsing and desktop applications on their general-purpose computers while parents and educators rely on fragile, by-passable controls. 
+Children are constantly exposed to unproductive temptations with unrestricted browsing and desktop applications on their general-purpose computers. Instead of learning how to use technology, they are being used by it. Parents and educators rely on fragile, bypassable controls. 
 
-Cenote solves this by replacing the traditional desktop with a distraction-free learning environment that supports deep focus and controlled access to resources.
+Cenote solves this by creating a layer on top of your Mac, Windows or ChromeOS with a distraction-free environment that supports deep focus and controlled learning.
 
 
 <br />
