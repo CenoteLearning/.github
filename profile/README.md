@@ -8,8 +8,7 @@
 
 
 A cenote is a place of depth and mystery - the Mayans considered them sacred, portals to the underworld, sources of knowledge and water (life).
-When you boot into Cenote OS, you're not just opening a computer. You're descending into a place of learning. The circular walls surround you. Above, maybe you see light filtering down, or stars at night. Below, still water reflecting everything.
-It's contemplative. Focused. You're in something, not just looking at a desktop.
+When you boot into Cenote OS, you're not just opening a computer. You're descending into a place of learning. It's contemplative. Focused. You're inside an environment, not just looking at a desktop.
 
 <br />
 
