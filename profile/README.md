@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-  <source srcset="logos/logo11.png" media="(prefers-color-scheme: dark)">
-	<source srcset="logos/logo12.png" media="(prefers-color-scheme: light)">
-	<img src="logos/logo12.png" alt="CENOTE logo">
+  <source srcset="logos/logo6.png" media="(prefers-color-scheme: dark)">
+	<source srcset="logos/logo6.png" media="(prefers-color-scheme: light)">
+	<img src="logos/logo6.png" alt="CENOTE logo">
 	</picture> 
 </p>
 
