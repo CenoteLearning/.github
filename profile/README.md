@@ -7,12 +7,14 @@
 </p>
 
 
-A cenote is a place of depth and mystery - the Mayans considered them sacred, portals to the underworld, sources of knowledge and water (life).
-When you are in Cenote, you're in a browser based workspace that is built for learning. It's contemplative. Focused. You're inside an environment that keeps you focused, not letting you getting pulled away by distractions. 
+The Mexican cenote is a place of depth and mystery - the Mayans considered them sacred, portals to the underworld, sources of knowledge and water (life).
+
+Our Cenote is a browsing experience designed to avoid harmful, attention-grabbing content; while giving an enhanced user experience - keeping their users in-the-flow. 
+
 
 <br />
 
-Follow us if you want to see how Cenote develops. We hope to have an MVP out by the beginning of March 2026! 
+Follow us if you want to see how Cenote develops, and get early notifications when we release our product for Beta testing! 
 
 <hr />
 
