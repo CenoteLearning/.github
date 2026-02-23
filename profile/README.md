@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
-  <source srcset="logos/logo6.png" media="(prefers-color-scheme: dark)">
-	<source srcset="logos/logo6.png" media="(prefers-color-scheme: light)">
-	<img src="logos/logo6.png" alt="CENOTE logo">
+  <source srcset="logos/logo15.png" media="(prefers-color-scheme: dark)">
+	<source srcset="logos/logo15.png" media="(prefers-color-scheme: light)">
+	<img src="logos/logo15.png" alt="CENOTE logo">
 	</picture> 
 </p>
 
 
 The Mexican cenote is a place of depth and mystery - the Mayans considered them sacred, portals to the underworld, sources of knowledge and water (life).
 
-Our Cenote is a browsing experience designed to avoid harmful, attention-grabbing content; while giving an enhanced user experience - keeping their users in-the-flow. 
+Our Cenote is a browsing experience designed to avoid harmful, attention-grabbing content; while giving an enhanced user experience - keeping their users in-the-flow.
 
 
 <br />
