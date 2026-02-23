@@ -2,7 +2,7 @@
   <picture>
   <source srcset="logos/Logo15.png" media="(prefers-color-scheme: dark)">
 	<source srcset="logos/Logo15.png" media="(prefers-color-scheme: light)">
-	<img src="logos/Logo15.png" alt="CENOTE logo">
+	<img src="logos/Logo15.png" alt="CENOTE logo" height="600">
 	</picture> 
 </p>
 
